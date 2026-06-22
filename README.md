@@ -1,3 +1,8 @@
+
+https://github.com/ksmartid/localllm_frontend_final
+
+https://github.com/ksmartid/localllm_backend_final
+
 # localllm_backend_final
 localllm_backend_final
 실행방법_localllm_backend_final_localllm_frontend_final
