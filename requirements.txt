@@ -1,0 +1,5 @@
+requests
+ollama 
+fastapi[standard]
+langchain 
+langchain-ollama
